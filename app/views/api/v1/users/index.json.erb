@@ -1,0 +1,7 @@
+<%
+users = []
+@users.each do |user|
+    users.append user.to_show_dict
+end
+%>
+<%= raw users.to_json %>

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_id: 1
+  pile: 1
+  beans: 1
+
+two:
+  player_id: 1
+  pile: 1
+  beans: 1
